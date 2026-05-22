@@ -6,7 +6,7 @@
 
 **Fair Open Research & Software Engineering for Healthcare**
 
-We build and curate open infrastructure for healthcare — catalogues, standards, tools, and pipelines that are transparent, reusable, and [FAIR](https://www.go-fair.org/fair-principles/).
+We build and curate open infrastructure for healthcare — catalogues, standards, tools, and pipelines that are transparent, reusable, and [FAIR](https://www.go-fair.org/fair-principles/). Our software follows the [FAIR software recommendations](https://fair-software.nl/).
 
 ---
 
