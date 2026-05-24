@@ -12,9 +12,10 @@ We build and curate open infrastructure for healthcare — catalogues, standards
 
 ## Open Repositories
 
-| Repository | What it is | Status |
-|---|---|---|
-| [MACH](https://github.com/FORSE-H/MACH) | Machine-Actionable Catalog for Healthcare — open catalog of open-source healthcare software, AI/ML models, standards, datasets, and MCP servers | Active |
+| Repository | What it is | URL | Status |
+|---|---|---|---|
+| [MACH](https://github.com/FORSE-H/MACH) | Machine-Actionable Catalog for Healthcare — open catalog of open-source healthcare software, AI/ML models, standards, datasets, and MCP servers | [machcatalog.org](https://machcatalog.org/) | Active |
+| health-metadata-hub *(private repo)* | FDP metadata hub — Harvester of Harvester | [health-metadata-hub.onrender.com](https://health-metadata-hub.onrender.com/) | Active |
 
 ---
 
